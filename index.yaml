@@ -1,0 +1,27 @@
+apiVersion: v1
+entries:
+  edge-site:
+  - apiVersion: v2
+    appVersion: 052deed519997067843d79b3651fe5bc68eed4fb
+    created: "2024-02-13T23:45:39.469585527Z"
+    description: Foxglove Edge Site
+    digest: a9076a3de419c58a2aa71bed0467945027d268d6687ef044aa99a3654fd7182a
+    icon: https://foxglove.dev/images/logo-icon-round.png
+    name: edge-site
+    type: application
+    urls:
+    - https://github.com/cocorobotics/foxglove-helm-charts/releases/download/edge-site-0.0.20/edge-site-0.0.20.tgz
+    version: 0.0.20
+  primary-site:
+  - apiVersion: v2
+    appVersion: 3af304d2e476e78627a3eb5cc7eb166db46feb79
+    created: "2024-02-13T23:45:39.662331202Z"
+    description: Foxglove Primary Site
+    digest: e979321cd08432d8039c4a44b47c1e0515f055ef6d6a6ac8a9ee030b4f6d05cf
+    icon: https://foxglove.dev/images/logo-icon-round.png
+    name: primary-site
+    type: application
+    urls:
+    - https://github.com/cocorobotics/foxglove-helm-charts/releases/download/primary-site-0.0.34/primary-site-0.0.34.tgz
+    version: 0.0.34
+generated: "2024-02-13T23:45:39.662336923Z"
